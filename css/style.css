@@ -252,6 +252,8 @@
 
   .team-inside {
     background-position: top right;
+    padding-top: 6.4rem;
+    padding-bottom: 6.4rem;
   }
 
   .team-container {
