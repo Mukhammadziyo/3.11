@@ -131,7 +131,7 @@
     font-weight: 600;
     font-size: var(--main-font-size-2);
     line-height: var(--main-line-height-2);
-    opacity: 80%;
+    color: var(--secondary-light-grey);
   }
 }
 
@@ -214,8 +214,8 @@
   }
 
   img {
-    width: 62px;
-    height: 62px;
+    max-width: 62px;
+    max-height: 62px;
   }
 }
 
