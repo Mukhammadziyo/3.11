@@ -21,14 +21,14 @@
   flex-direction: column;
   color: var(--primary-white);
 
-  h2 {
+  .hero-heading {
     font-size: var(--h1-small-size);
     line-height: var(--h1-small-line);
     font-weight: 700;
     margin-bottom: 1.6rem;
   }
 
-  h4 {
+  .hero-heading-h4 {
     font-size: 3.2rem;
     line-height: 1.6;
     color: var(--primary-light-coral);
