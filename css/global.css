@@ -437,7 +437,7 @@ h6 {
     flex-direction: column;
     row-gap: 2.4rem;
 
-    h2 {
+    .footer-top-heading {
       text-align: center;
     }
   }

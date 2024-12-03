@@ -52,7 +52,7 @@
     max-height: 72px;
   }
 
-  p {
+  .card-paragraph {
     font-size: var(--main-font-size-1);
     line-height: var(--main-line-height-1);
   }
@@ -65,8 +65,8 @@
   max-width: 540px;
   width: 100%;
 
-  input,
-  textarea {
+  .input,
+  .textarea {
     outline: none;
     background-color: transparent;
     border: none;
@@ -99,7 +99,7 @@
     }
   }
 
-  textarea {
+  .textarea {
     resize: none;
     padding-bottom: 5.8rem;
   }
